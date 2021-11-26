@@ -8,9 +8,9 @@
     "build": "npx tailwindcss-cli build ./src/app.css -o ./dist/app.css",
     "postcss": "postcss  ./src/app.css -o ./dist/app.css"
   },
-  "author": "LinXueYi <695126622@qq.com>",
+  "author": "viarotel <viarotel@qq.com>",
   "license": "MIT",
-  "repository": "LinXueYi/postcss-uniapp-tailwindcss-compatible",
+  "repository": "viarotel/postcss-uniapp-tailwindcss-compatible",
   "engines": {
     "node": ">=10.0.0"
   },
