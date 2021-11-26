@@ -24,8 +24,8 @@
   height: 32rpx;
 }
 
-.w-1-div-2,
-.w-0-dot-5 {
+.w-1_2,
+.w-0-5 {
 }
 ```
 
@@ -107,12 +107,12 @@ module.exports = {
     // w-1/2
     {
       pattern: /\\\//g,
-      replacement: '-div-',
+      replacement: '_',
     },
     // w-0.5
     {
       pattern: /\\\./g,
-      replacement: '-dot-',
+      replacement: '-',
     },
   ]
 }

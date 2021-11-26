@@ -1,6 +1,6 @@
 {
   "name": "postcss-uniapp-tailwindcss-compatible",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PostCSS plugin use tailwindcss in uniapp",
   "keywords": ["postcss", "css", "postcss-plugin", "tailwindcss", "uniapp"],
   "scripts": {
