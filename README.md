@@ -1,6 +1,6 @@
 # PostCSS Uniapp Tailwindcss
 
-[PostCSS] plugin use tailwindcss in uniapp.
+[PostCSS] 在uniapp中使用tailwindcss兼容postcss7
 
 [postcss]: https://github.com/postcss/postcss
 
